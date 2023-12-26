@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Nahhh, this is !!! 2 more days for 4 months🥹";
+  question.innerHTML = "Nahhh, this is !!! 1 more days for 4 months🥹";
   gif.src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpoMW1iem1pN2N6MHlvZ3d2cXgzMWo0czZrOHd3YzJycnA4NTBmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BxUJ8T9oMzFcsE4dAv/giphy.gif";
 });
 
